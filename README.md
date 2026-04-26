@@ -163,16 +163,19 @@ The use of aggregate national statistics throughout this analysis does not permi
 This project requires Python with pandas, matplotlib, seaborn, scipy, and sklearn installed via Anaconda, a SQLite-compatible SQL client such as DBeaver for the SQL queries and database, and Power BI Desktop with a SQLite ODBC driver installed for the dashboard file. All raw data files are located in the data/raw subfolders and all cleaned analytical files are located in data/cleaned.
 
 **To explore the Python notebooks:**
+
     1. Open Anaconda Navigator and launch Jupyter Notebook 
     2. Navigate to the python folder and open either notebook 
     3. Ensure the data/cleaned folder is accessible from the same working directory 
     4. Run all cells in order using Kernel: Restart and Run All 
     
 **To run the SQL queries:**
+
     1. Open DBeaver and create a new SQLite connection pointing to japan_governance.db in the sql folder 
     2. Open any .sql file from the sql folder in the DBeaver SQL editor 
     
 **To view the Power BI dashboard:**
+
     1. Install the SQLite ODBC driver from ch-werner.de/sqliteodbc
     2. Create a System DSN named japan_governance connecting to japan_governance.db using the Windows ODBC Data Source Administrator
     3. Open Japan_Governance_Analysis_Dashboard.pbix in Power BI Desktop 
