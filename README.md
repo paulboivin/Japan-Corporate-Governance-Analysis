@@ -125,6 +125,18 @@ Japan-Governance-Analysis/
 ├── sql/
 │   ├── japan_governance.db                           — SQLite database (Power BI connects via ODBC)
 │   ├── 01_earned_surplus_milestones.sql              — Surplus growth with governance milestone flags
+│   ├── 02_capex_dividends_ratio.sql                  — Capital deployment ratio over time
+│   ├── 02b_era_summary.sql                           — Pre-reform vs reform era aggregated comparison
+│   ├── 03_peer_gfcf_comparison.sql                   — Four country GFCF ranking by year
+│   ├── 04_topix_milestone_performance.sql            — TOPIX performance around reform milestones
+│   ├── 05_gdp_investment_relationship.sql            — Investment-to-GDP directional relationship
+│   └── 05b_direction_summary.sql                     — Direction relationship category summary
+│
+├── dashboard/
+│   └── Japan_Governance_Analysis_Dashboard.pbix      — Interactive Power BI dashboard (2 pages, ODBC connected)
+│
+└── insights/
+    └── Japan_Governance_Insight_Narrative.docx        — Full business narrative and observations
 ```
 
 ---
