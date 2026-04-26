@@ -1,6 +1,6 @@
 # Japan Corporate Governance Reform - Capital Allocation and Economic Impact Analysis (2001–2024)
 
-## Overview: This project presents an end-to-end data analysis of Japan's corporate governance reform program and its measurable impact on corporate capital allocation behavior, stock market performance, and macroeconomic outcomes over a 24 year period from 2001 to 2024. Drawing on real public data from the Japan Ministry of Finance, the Japan Exchange Group, and the World Bank, the project covers the full analyst workflow: multi-source data sourcing and integration, data cleaning, exploratory data analysis, regression modeling, scenario forecasting, SQL validation, and interactive dashboard creation, using Python, SQL, and Power BI.
+## Overview: This project presents an end-to-end data analysis of Japan's corporate governance reform program and its measurable impact on corporate capital allocation behavior, stock market performance and macroeconomic outcomes over a 24 year period from 2001 to 2024. Drawing on real public data from the Japan Ministry of Finance, the Japan Exchange Group, and the World Bank, the project covers the full analyst workflow: multi-source data sourcing and integration, data cleaning, exploratory data analysis, regression modeling, scenario forecasting, SQL validation, and interactive dashboard creation, using Python, SQL, and Power BI.
 
 ---
 
