@@ -1,6 +1,7 @@
 # Japan Corporate Governance Reform - Capital Allocation and Economic Impact Analysis (2001–2024)
 
-## Overview: This project presents an end-to-end data analysis of Japan's corporate governance reform program and its measurable impact on corporate capital allocation behavior, stock market performance and macroeconomic outcomes over a 24 year period from 2001 to 2024. Drawing on real public data from the Japan Ministry of Finance, the Japan Exchange Group, and the World Bank, the project covers the full analyst workflow: multi-source data sourcing and integration, data cleaning, exploratory data analysis, regression modeling, scenario forecasting, SQL validation, and interactive dashboard creation, using Python, SQL, and Power BI.
+## Overview 
+This project presents an end-to-end data analysis of Japan's corporate governance reform program and its measurable impact on corporate capital allocation behavior, stock market performance and macroeconomic outcomes over a 24 year period from 2001 to 2024. Drawing on real public data from the Japan Ministry of Finance, the Japan Exchange Group, and the World Bank, the project covers the full analyst workflow: multi-source data sourcing and integration, data cleaning, exploratory data analysis, regression modeling, scenario forecasting, SQL validation, and interactive dashboard creation, using Python, SQL, and Power BI.
 
 ---
 
@@ -17,9 +18,9 @@ Japan's listed companies have accumulated an estimated ¥637.5 trillion in corpo
 
 ## Tools and Technologies
 
-**Python (pandas, matplotlib, seaborn, scipy, sklearn)**: Used for data loading, cleaning, and integration across multiple heterogeneous source files. The cleaning process addressed structural inconsistencies across 26 Ministry of Finance Excel files spanning two decades, including shifting sheet numbering conventions, non-consecutive column layouts, overlapping multi-year coverage, and fiscal year to calendar year alignment. Exploratory data analysis produced ten charts examining corporate surplus accumulation, capital deployment behavior, peer economy comparisons, stock market correlations, and GDP trends. Regression modeling using scipy and sklearn established a statistically significant one year lag relationship between capital expenditure growth and GDP growth, forming the empirical foundation of the scenario forecast.
+**Python (pandas, matplotlib, seaborn, scipy, sklearn):** Used for data loading, cleaning, and integration across multiple heterogeneous source files. The cleaning process addressed structural inconsistencies across 26 Ministry of Finance Excel files spanning two decades, including shifting sheet numbering conventions, non-consecutive column layouts, overlapping multi-year coverage, and fiscal year to calendar year alignment. Exploratory data analysis produced ten charts examining corporate surplus accumulation, capital deployment behavior, peer economy comparisons, stock market correlations, and GDP trends. Regression modeling using scipy and sklearn established a statistically significant one year lag relationship between capital expenditure growth and GDP growth, forming the empirical foundation of the scenario forecast.
 
-**SQL (SQLite via DBeaver):** Used to validate key Python findings through structured queries and surface additional analytical insights through direct database interrogation. Seven queries covered earned surplus growth relative to governance milestones, capital deployment era comparisons, four-country GFCF rankings, TOPIX performance around reform announcements, and the historical investment-to-GDP growth relationship. The project connects Power BI directly to the SQLite database via an ODBC connection and creating a database-to-dashboard pipeline architecture.
+**SQL (SQLite via DBeaver):** Used to validate key Python findings through structured queries and surface additional analytical insights through direct database interrogation. Seven queries covered earned surplus growth relative to governance milestones, capital deployment era comparisons, four-country GFCF rankings, TOPIX performance around reform announcements, and the historical investment-to-GDP growth relationship. The project connects Power BI directly to the SQLite database via an ODBC connection and demonstrating a database-to-dashboard pipeline architecture.
 
 
 **Power BI:** Used to build an interactive two-page dashboard visualizing the core findings for a business audience. Page 1 presents the internal corporate capital allocation story. Page 2 presents the international context and GDP forecast. Governance reform milestones are marked as reference lines across all time-series charts. An Era slicer allows filtering between pre-reform and reform era data across all visuals simultaneously.
@@ -151,7 +152,7 @@ Share buyback data was not incorporated into the capital deployment analysis due
 
 Earned surplus data is available from 2011 onwards only, reflecting the Ministry of Finance's introduction of that reporting category in FY2015 publications. The pre-2011 period is therefore represented in the capital deployment analysis through CapEx and dividends data only, without a corresponding surplus accumulation measure.
 
-The scenario forecast is based on aggregate national investment and GDP data rather than corporate-sector-specific investment data. Japan's gross fixed capital formation as reported by the World Bank includes government and household investment alongside corporate investment Due to this the historical investment multiplier reflects non-corporate investment activity and the projected GDP impacts of corporate surplus deployment may differ from what the model suggests.
+The scenario forecast is based on aggregate national investment and GDP data rather than corporate-sector-specific investment data. Japan's gross fixed capital formation as reported by the World Bank includes government and household investment alongside corporate investment. Due to this the historical investment multiplier reflects non-corporate investment activity and the projected GDP impacts of corporate surplus deployment may differ from what the model suggests.
 
 The use of aggregate national statistics throughout this analysis does not permit isolation of corporate sector behavior from household and government sector behavior. Findings and observations that reference aggregate macroeconomic indicators should be interpreted as economy-wide patterns rather than corporate-sector-specific conclusions.
 
@@ -161,17 +162,17 @@ The use of aggregate national statistics throughout this analysis does not permi
 
 This project requires Python with pandas, matplotlib, seaborn, scipy, and sklearn installed via Anaconda, a SQLite-compatible SQL client such as DBeaver for the SQL queries and database, and Power BI Desktop with a SQLite ODBC driver installed for the dashboard file. All raw data files are located in the data/raw subfolders and all cleaned analytical files are located in data/cleaned.
 
-To explore the Python notebooks:
+**To explore the Python notebooks:**
     1. Open Anaconda Navigator and launch Jupyter Notebook 
     2. Navigate to the python folder and open either notebook 
     3. Ensure the data/cleaned folder is accessible from the same working directory 
     4. Run all cells in order using Kernel: Restart and Run All 
     
-To run the SQL queries:
+**To run the SQL queries:**
     1. Open DBeaver and create a new SQLite connection pointing to japan_governance.db in the sql folder 
     2. Open any .sql file from the sql folder in the DBeaver SQL editor 
     
-To view the Power BI dashboard:
+**To view the Power BI dashboard:**
     1. Install the SQLite ODBC driver from ch-werner.de/sqliteodbc
     2. Create a System DSN named japan_governance connecting to japan_governance.db using the Windows ODBC Data Source Administrator
     3. Open Japan_Governance_Analysis_Dashboard.pbix in Power BI Desktop 
