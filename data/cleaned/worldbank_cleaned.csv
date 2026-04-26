@@ -1,0 +1,417 @@
+Indicator,Series Code,Country,Country_Code,Year,Value
+GDP (constant 2015 US$),NY.GDP.MKTP.KD,Germany,DEU,2000,2885963533943.47
+GDP (constant 2015 US$),NY.GDP.MKTP.KD,Germany,DEU,2001,2933181986968.52
+GDP (constant 2015 US$),NY.GDP.MKTP.KD,Germany,DEU,2002,2926486831428.63
+GDP (constant 2015 US$),NY.GDP.MKTP.KD,Germany,DEU,2003,2910982263391.97
+GDP (constant 2015 US$),NY.GDP.MKTP.KD,Germany,DEU,2004,2944810405337.25
+GDP (constant 2015 US$),NY.GDP.MKTP.KD,Germany,DEU,2005,2970886268370.04
+GDP (constant 2015 US$),NY.GDP.MKTP.KD,Germany,DEU,2006,3085761005285.65
+GDP (constant 2015 US$),NY.GDP.MKTP.KD,Germany,DEU,2007,3174912263837.68
+GDP (constant 2015 US$),NY.GDP.MKTP.KD,Germany,DEU,2008,3203102383827.36
+GDP (constant 2015 US$),NY.GDP.MKTP.KD,Germany,DEU,2009,3025504625850.04
+GDP (constant 2015 US$),NY.GDP.MKTP.KD,Germany,DEU,2010,3150598283304.25
+GDP (constant 2015 US$),NY.GDP.MKTP.KD,Germany,DEU,2011,3268996785218.57
+GDP (constant 2015 US$),NY.GDP.MKTP.KD,Germany,DEU,2012,3284148978797.69
+GDP (constant 2015 US$),NY.GDP.MKTP.KD,Germany,DEU,2013,3297186905208.25
+GDP (constant 2015 US$),NY.GDP.MKTP.KD,Germany,DEU,2014,3369071713224.27
+GDP (constant 2015 US$),NY.GDP.MKTP.KD,Germany,DEU,2015,3425099578746.09
+GDP (constant 2015 US$),NY.GDP.MKTP.KD,Germany,DEU,2016,3501212900675.89
+GDP (constant 2015 US$),NY.GDP.MKTP.KD,Germany,DEU,2017,3599173571724.7
+GDP (constant 2015 US$),NY.GDP.MKTP.KD,Germany,DEU,2018,3640049243667.4
+GDP (constant 2015 US$),NY.GDP.MKTP.KD,Germany,DEU,2019,3675639268112.03
+GDP (constant 2015 US$),NY.GDP.MKTP.KD,Germany,DEU,2020,3523764998709.97
+GDP (constant 2015 US$),NY.GDP.MKTP.KD,Germany,DEU,2021,3661544208117.2
+GDP (constant 2015 US$),NY.GDP.MKTP.KD,Germany,DEU,2022,3727790994177.62
+GDP (constant 2015 US$),NY.GDP.MKTP.KD,Germany,DEU,2023,3695372350062.48
+GDP (constant 2015 US$),NY.GDP.MKTP.KD,Germany,DEU,2024,3677048776153.86
+GDP (constant 2015 US$),NY.GDP.MKTP.KD,Germany,DEU,2025,
+GDP (constant 2015 US$),NY.GDP.MKTP.KD,Japan,JPN,2000,3986755544463.82
+GDP (constant 2015 US$),NY.GDP.MKTP.KD,Japan,JPN,2001,4002148544212.9
+GDP (constant 2015 US$),NY.GDP.MKTP.KD,Japan,JPN,2002,4003827945767.2
+GDP (constant 2015 US$),NY.GDP.MKTP.KD,Japan,JPN,2003,4065291729517.45
+GDP (constant 2015 US$),NY.GDP.MKTP.KD,Japan,JPN,2004,4154163710039.3
+GDP (constant 2015 US$),NY.GDP.MKTP.KD,Japan,JPN,2005,4229100705435.58
+GDP (constant 2015 US$),NY.GDP.MKTP.KD,Japan,JPN,2006,4287138774362.24
+GDP (constant 2015 US$),NY.GDP.MKTP.KD,Japan,JPN,2007,4350758602405.54
+GDP (constant 2015 US$),NY.GDP.MKTP.KD,Japan,JPN,2008,4297492743392.88
+GDP (constant 2015 US$),NY.GDP.MKTP.KD,Japan,JPN,2009,4052826324003.77
+GDP (constant 2015 US$),NY.GDP.MKTP.KD,Japan,JPN,2010,4218907820178.57
+GDP (constant 2015 US$),NY.GDP.MKTP.KD,Japan,JPN,2011,4219912322040.1
+GDP (constant 2015 US$),NY.GDP.MKTP.KD,Japan,JPN,2012,4277925608846.49
+GDP (constant 2015 US$),NY.GDP.MKTP.KD,Japan,JPN,2013,4363702302793.37
+GDP (constant 2015 US$),NY.GDP.MKTP.KD,Japan,JPN,2014,4376627829634.98
+GDP (constant 2015 US$),NY.GDP.MKTP.KD,Japan,JPN,2015,4444930651964.18
+GDP (constant 2015 US$),NY.GDP.MKTP.KD,Japan,JPN,2016,4478437728050.46
+GDP (constant 2015 US$),NY.GDP.MKTP.KD,Japan,JPN,2017,4553466417290.11
+GDP (constant 2015 US$),NY.GDP.MKTP.KD,Japan,JPN,2018,4582763011478.55
+GDP (constant 2015 US$),NY.GDP.MKTP.KD,Japan,JPN,2019,4564332550096.38
+GDP (constant 2015 US$),NY.GDP.MKTP.KD,Japan,JPN,2020,4374056271824.01
+GDP (constant 2015 US$),NY.GDP.MKTP.KD,Japan,JPN,2021,4492005937826.88
+GDP (constant 2015 US$),NY.GDP.MKTP.KD,Japan,JPN,2022,4534320578755.85
+GDP (constant 2015 US$),NY.GDP.MKTP.KD,Japan,JPN,2023,4601203385713.7
+GDP (constant 2015 US$),NY.GDP.MKTP.KD,Japan,JPN,2024,4606002855955.13
+GDP (constant 2015 US$),NY.GDP.MKTP.KD,Japan,JPN,2025,
+GDP (constant 2015 US$),NY.GDP.MKTP.KD,"Korea, Rep.",KOR,2000,835011437852.054
+GDP (constant 2015 US$),NY.GDP.MKTP.KD,"Korea, Rep.",KOR,2001,874473540684.493
+GDP (constant 2015 US$),NY.GDP.MKTP.KD,"Korea, Rep.",KOR,2002,942192762521.074
+GDP (constant 2015 US$),NY.GDP.MKTP.KD,"Korea, Rep.",KOR,2003,971162614185.718
+GDP (constant 2015 US$),NY.GDP.MKTP.KD,"Korea, Rep.",KOR,2004,1021504157422.6
+GDP (constant 2015 US$),NY.GDP.MKTP.KD,"Korea, Rep.",KOR,2005,1066023726231.41
+GDP (constant 2015 US$),NY.GDP.MKTP.KD,"Korea, Rep.",KOR,2006,1121936729365.41
+GDP (constant 2015 US$),NY.GDP.MKTP.KD,"Korea, Rep.",KOR,2007,1187479862374.9
+GDP (constant 2015 US$),NY.GDP.MKTP.KD,"Korea, Rep.",KOR,2008,1223156560996.14
+GDP (constant 2015 US$),NY.GDP.MKTP.KD,"Korea, Rep.",KOR,2009,1233184753860.86
+GDP (constant 2015 US$),NY.GDP.MKTP.KD,"Korea, Rep.",KOR,2010,1319281537670.41
+GDP (constant 2015 US$),NY.GDP.MKTP.KD,"Korea, Rep.",KOR,2011,1367937063745.25
+GDP (constant 2015 US$),NY.GDP.MKTP.KD,"Korea, Rep.",KOR,2012,1402787524457.73
+GDP (constant 2015 US$),NY.GDP.MKTP.KD,"Korea, Rep.",KOR,2013,1448958816285.78
+GDP (constant 2015 US$),NY.GDP.MKTP.KD,"Korea, Rep.",KOR,2014,1495538208413.16
+GDP (constant 2015 US$),NY.GDP.MKTP.KD,"Korea, Rep.",KOR,2015,1539212301135.55
+GDP (constant 2015 US$),NY.GDP.MKTP.KD,"Korea, Rep.",KOR,2016,1588028842393.05
+GDP (constant 2015 US$),NY.GDP.MKTP.KD,"Korea, Rep.",KOR,2017,1642548917819.59
+GDP (constant 2015 US$),NY.GDP.MKTP.KD,"Korea, Rep.",KOR,2018,1694718171579.25
+GDP (constant 2015 US$),NY.GDP.MKTP.KD,"Korea, Rep.",KOR,2019,1733930596323.25
+GDP (constant 2015 US$),NY.GDP.MKTP.KD,"Korea, Rep.",KOR,2020,1721788880530.99
+GDP (constant 2015 US$),NY.GDP.MKTP.KD,"Korea, Rep.",KOR,2021,1801214449834.76
+GDP (constant 2015 US$),NY.GDP.MKTP.KD,"Korea, Rep.",KOR,2022,1850343736945.76
+GDP (constant 2015 US$),NY.GDP.MKTP.KD,"Korea, Rep.",KOR,2023,1879634949821.72
+GDP (constant 2015 US$),NY.GDP.MKTP.KD,"Korea, Rep.",KOR,2024,1917295522781.86
+GDP (constant 2015 US$),NY.GDP.MKTP.KD,"Korea, Rep.",KOR,2025,
+GDP (constant 2015 US$),NY.GDP.MKTP.KD,United States,USA,2000,13650948362520.0
+GDP (constant 2015 US$),NY.GDP.MKTP.KD,United States,USA,2001,13781388409036.2
+GDP (constant 2015 US$),NY.GDP.MKTP.KD,United States,USA,2002,14015733659783.6
+GDP (constant 2015 US$),NY.GDP.MKTP.KD,United States,USA,2003,14407558345762.9
+GDP (constant 2015 US$),NY.GDP.MKTP.KD,United States,USA,2004,14961928297813.8
+GDP (constant 2015 US$),NY.GDP.MKTP.KD,United States,USA,2005,15483134541390.2
+GDP (constant 2015 US$),NY.GDP.MKTP.KD,United States,USA,2006,15914268559668.9
+GDP (constant 2015 US$),NY.GDP.MKTP.KD,United States,USA,2007,16233167950743.9
+GDP (constant 2015 US$),NY.GDP.MKTP.KD,United States,USA,2008,16251606759787.8
+GDP (constant 2015 US$),NY.GDP.MKTP.KD,United States,USA,2009,15832884074310.8
+GDP (constant 2015 US$),NY.GDP.MKTP.KD,United States,USA,2010,16259610790677.0
+GDP (constant 2015 US$),NY.GDP.MKTP.KD,United States,USA,2011,16513977256911.2
+GDP (constant 2015 US$),NY.GDP.MKTP.KD,United States,USA,2012,16892000920975.5
+GDP (constant 2015 US$),NY.GDP.MKTP.KD,United States,USA,2013,17249744800617.5
+GDP (constant 2015 US$),NY.GDP.MKTP.KD,United States,USA,2014,17685097277697.8
+GDP (constant 2015 US$),NY.GDP.MKTP.KD,United States,USA,2015,18206020741000.0
+GDP (constant 2015 US$),NY.GDP.MKTP.KD,United States,USA,2016,18537270454435.6
+GDP (constant 2015 US$),NY.GDP.MKTP.KD,United States,USA,2017,18992846546661.7
+GDP (constant 2015 US$),NY.GDP.MKTP.KD,United States,USA,2018,19556270302218.3
+GDP (constant 2015 US$),NY.GDP.MKTP.KD,United States,USA,2019,20061570168697.6
+GDP (constant 2015 US$),NY.GDP.MKTP.KD,United States,USA,2020,19627632559934.5
+GDP (constant 2015 US$),NY.GDP.MKTP.KD,United States,USA,2021,20816096100824.5
+GDP (constant 2015 US$),NY.GDP.MKTP.KD,United States,USA,2022,21339074561820.0
+GDP (constant 2015 US$),NY.GDP.MKTP.KD,United States,USA,2023,21955252291273.6
+GDP (constant 2015 US$),NY.GDP.MKTP.KD,United States,USA,2024,22568462768174.3
+GDP (constant 2015 US$),NY.GDP.MKTP.KD,United States,USA,2025,
+GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,Germany,DEU,2000,35104.1308467844
+GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,Germany,DEU,2001,35618.5143698493
+GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,Germany,DEU,2002,35477.5151544301
+GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,Germany,DEU,2003,35270.0227284267
+GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,Germany,DEU,2004,35687.6378708542
+GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,Germany,DEU,2005,36024.0947047021
+GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,Germany,DEU,2006,37459.261328042
+GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,Germany,DEU,2007,38593.0749910508
+GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,Germany,DEU,2008,39009.8477636357
+GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,Germany,DEU,2009,36940.4078672661
+GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,Germany,DEU,2010,38526.7371042695
+GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,Germany,DEU,2011,40722.4849268242
+GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,Germany,DEU,2012,40834.5088218456
+GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,Germany,DEU,2013,40884.8926759028
+GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,Germany,DEU,2014,41602.4661281668
+GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,Germany,DEU,2015,41929.7549110722
+GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,Germany,DEU,2016,42516.9337063103
+GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,Germany,DEU,2017,43543.4807050551
+GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,Germany,DEU,2018,43905.8550061973
+GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,Germany,DEU,2019,44235.2658954682
+GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,Germany,DEU,2020,42372.8726784255
+GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,Germany,DEU,2021,44011.0194631674
+GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,Germany,DEU,2022,44817.1316331389
+GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,Germany,DEU,2023,44368.9920074881
+GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,Germany,DEU,2024,44027.7631554469
+GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,Germany,DEU,2025,
+GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,Japan,JPN,2000,31430.631130325
+GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,Japan,JPN,2001,31476.0520665746
+GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,Japan,JPN,2002,31416.1241772309
+GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,Japan,JPN,2003,31830.217584972
+GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,Japan,JPN,2004,32515.1158024695
+GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,Japan,JPN,2005,33098.5474664881
+GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,Japan,JPN,2006,33531.518563066
+GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,Japan,JPN,2007,33990.0360341367
+GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,Japan,JPN,2008,33557.6454041595
+GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,Japan,JPN,2009,31651.0837739562
+GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,Japan,JPN,2010,32942.2020783835
+GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,Japan,JPN,2011,33011.1342301291
+GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,Japan,JPN,2012,33518.4449368599
+GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,Japan,JPN,2013,34239.8862473488
+GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,Japan,JPN,2014,34386.9058552671
+GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,Japan,JPN,2015,34960.6393843385
+GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,Japan,JPN,2016,35242.199377148
+GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,Japan,JPN,2017,35861.9728545672
+GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,Japan,JPN,2018,36138.5290824814
+GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,Japan,JPN,2019,36043.7844013518
+GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,Japan,JPN,2020,34642.9718743239
+GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,Japan,JPN,2021,35741.1601062924
+GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,Japan,JPN,2022,36238.3294895302
+GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,Japan,JPN,2023,36952.5150709861
+GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,Japan,JPN,2024,37152.5636003552
+GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,Japan,JPN,2025,
+GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,"Korea, Rep.",KOR,2000,17763.1353417297
+GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,"Korea, Rep.",KOR,2001,18460.4288193829
+GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,"Korea, Rep.",KOR,2002,19775.3800655139
+GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,"Korea, Rep.",KOR,2003,20278.0406421178
+GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,"Korea, Rep.",KOR,2004,21244.8136800528
+GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,"Korea, Rep.",KOR,2005,22123.7613066851
+GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,"Korea, Rep.",KOR,2006,23162.1860111297
+GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,"Korea, Rep.",KOR,2007,24391.7651013448
+GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,"Korea, Rep.",KOR,2008,24934.5396367691
+GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,"Korea, Rep.",KOR,2009,25009.9148311999
+GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,"Korea, Rep.",KOR,2010,26623.0487122927
+GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,"Korea, Rep.",KOR,2011,27393.455357272
+GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,"Korea, Rep.",KOR,2012,27944.0564190045
+GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,"Korea, Rep.",KOR,2013,28732.711152033
+GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,"Korea, Rep.",KOR,2014,29470.6732991655
+GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,"Korea, Rep.",KOR,2015,30171.7906545222
+GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,"Korea, Rep.",KOR,2016,31005.4072876388
+GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,"Korea, Rep.",KOR,2017,31979.9027302467
+GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,"Korea, Rep.",KOR,2018,32852.8887488942
+GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,"Korea, Rep.",KOR,2019,33496.3113815643
+GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,"Korea, Rep.",KOR,2020,33215.9298928108
+GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,"Korea, Rep.",KOR,2021,34792.9397214598
+GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,"Korea, Rep.",KOR,2022,35809.0138105144
+GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,"Korea, Rep.",KOR,2023,36347.7036392553
+GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,"Korea, Rep.",KOR,2024,37048.4264001496
+GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,"Korea, Rep.",KOR,2025,
+GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,United States,USA,2000,48379.7551705781
+GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,United States,USA,2001,48361.0167607073
+GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,United States,USA,2002,48729.1586442625
+GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,United States,USA,2003,49662.7520549839
+GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,United States,USA,2004,51098.5573007417
+GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,United States,USA,2005,52393.4513113092
+GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,United States,USA,2006,53335.5896950225
+GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,United States,USA,2007,53889.3964951775
+GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,United States,USA,2008,53442.7136899777
+GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,United States,USA,2009,51611.3217087719
+GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,United States,USA,2010,52555.7695134023
+GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,United States,USA,2011,52956.6630340962
+GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,United States,USA,2012,53738.1476714593
+GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,United States,USA,2013,54462.6252412407
+GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,United States,USA,2014,55394.4510435329
+GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,United States,USA,2015,56572.9188996063
+GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,United States,USA,2016,57151.4708448372
+GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,United States,USA,2017,58151.7021391854
+GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,United States,USA,2018,59526.665698712
+GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,United States,USA,2019,60750.9898621637
+GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,United States,USA,2020,59194.6665172031
+GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,United States,USA,2021,62680.2503585805
+GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,United States,USA,2022,63886.1317069841
+GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,United States,USA,2023,65186.5977244157
+GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,United States,USA,2024,66356.1706750101
+GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,United States,USA,2025,
+Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,Germany,DEU,2000,24.129673281181
+Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,Germany,DEU,2001,24.3261080468042
+Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,Germany,DEU,2002,24.200084556707
+Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,Germany,DEU,2003,23.1977722341475
+Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,Germany,DEU,2004,23.9853207968461
+Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,Germany,DEU,2005,23.6887230136173
+Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,Germany,DEU,2006,25.077652935891
+Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,Germany,DEU,2007,27.1771129170567
+Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,Germany,DEU,2008,26.6713140332448
+Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,Germany,DEU,2009,22.7763365236952
+Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,Germany,DEU,2010,24.6365179752682
+Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,Germany,DEU,2011,26.1212416861128
+Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,Germany,DEU,2012,25.5119887971193
+Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,Germany,DEU,2013,25.5629203762105
+Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,Germany,DEU,2014,26.6784722245491
+Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,Germany,DEU,2015,26.9120157562447
+Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,Germany,DEU,2016,26.977350471487
+Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,Germany,DEU,2017,27.6420520174852
+Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,Germany,DEU,2018,27.5189209179885
+Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,Germany,DEU,2019,26.9885052922019
+Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,Germany,DEU,2020,27.0351115129596
+Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,Germany,DEU,2021,27.7931967173048
+Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,Germany,DEU,2022,25.7470691007898
+Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,Germany,DEU,2023,25.9662598860951
+Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,Germany,DEU,2024,25.2768210451909
+Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,Germany,DEU,2025,
+Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,Japan,JPN,2000,29.7820561404675
+Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,Japan,JPN,2001,28.348950322757
+Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,Japan,JPN,2002,27.1626283393396
+Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,Japan,JPN,2003,27.2664239803683
+Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,Japan,JPN,2004,27.546383090773
+Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,Japan,JPN,2005,27.4541628451824
+Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,Japan,JPN,2006,27.3759077018862
+Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,Japan,JPN,2007,27.5303983057463
+Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,Japan,JPN,2008,26.2111712279742
+Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,Japan,JPN,2009,23.0521414382073
+Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,Japan,JPN,2010,23.9288581146225
+Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,Japan,JPN,2011,22.894532483638
+Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,Japan,JPN,2012,22.3635480474837
+Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,Japan,JPN,2013,22.0071688533491
+Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,Japan,JPN,2014,22.4422381175418
+Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,Japan,JPN,2015,24.6114592004978
+Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,Japan,JPN,2016,25.6412705749051
+Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,Japan,JPN,2017,25.9744916132228
+Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,Japan,JPN,2018,25.6616737039553
+Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,Japan,JPN,2019,25.5003129532535
+Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,Japan,JPN,2020,24.9551743179788
+Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,Japan,JPN,2021,25.3046685192408
+Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,Japan,JPN,2022,23.0554356242395
+Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,Japan,JPN,2023,24.7344835596478
+Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,Japan,JPN,2024,25.3094395485879
+Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,Japan,JPN,2025,
+Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,"Korea, Rep.",KOR,2000,34.8334237537156
+Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,"Korea, Rep.",KOR,2001,33.1822212238157
+Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,"Korea, Rep.",KOR,2002,32.4058372992285
+Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,"Korea, Rep.",KOR,2003,33.8569071728879
+Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,"Korea, Rep.",KOR,2004,36.0614170143495
+Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,"Korea, Rep.",KOR,2005,34.855409925184
+Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,"Korea, Rep.",KOR,2006,33.5721769686454
+Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,"Korea, Rep.",KOR,2007,34.0338690182543
+Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,"Korea, Rep.",KOR,2008,33.3397618516593
+Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,"Korea, Rep.",KOR,2009,33.502975968798
+Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,"Korea, Rep.",KOR,2010,35.2951031135222
+Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,"Korea, Rep.",KOR,2011,34.1433681473028
+Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,"Korea, Rep.",KOR,2012,33.7447491121167
+Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,"Korea, Rep.",KOR,2013,34.1992129289363
+Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,"Korea, Rep.",KOR,2014,34.4303773828112
+Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,"Korea, Rep.",KOR,2015,35.8602944893542
+Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,"Korea, Rep.",KOR,2016,36.3086493125632
+Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,"Korea, Rep.",KOR,2017,36.4709355988436
+Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,"Korea, Rep.",KOR,2018,35.4458365066422
+Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,"Korea, Rep.",KOR,2019,33.831178495402
+Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,"Korea, Rep.",KOR,2020,35.2103082561703
+Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,"Korea, Rep.",KOR,2021,35.864250124296
+Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,"Korea, Rep.",KOR,2022,33.3300613676458
+Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,"Korea, Rep.",KOR,2023,32.2761724912913
+Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,"Korea, Rep.",KOR,2024,34.0290975945706
+Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,"Korea, Rep.",KOR,2025,
+Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,United States,USA,2000,19.9608953005988
+Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,United States,USA,2001,18.6164321260218
+Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,United States,USA,2002,17.6990846646438
+Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,United States,USA,2003,17.1895780029461
+Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,United States,USA,2004,17.4615655447704
+Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,United States,USA,2005,17.7012879306199
+Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,United States,USA,2006,17.8450467380027
+Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,United States,USA,2007,17.4731329113429
+Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,United States,USA,2008,16.021378981836
+Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,United States,USA,2009,14.873651581317
+Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,United States,USA,2010,15.1349978430449
+Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,United States,USA,2011,15.3179600577581
+Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,United States,USA,2012,16.5569941422251
+Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,United States,USA,2013,17.3613954399454
+Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,United States,USA,2014,17.7426352889336
+Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,United States,USA,2015,18.1511093940371
+Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,United States,USA,2016,17.7313088433413
+Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,United States,USA,2017,17.8206940166992
+Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,United States,USA,2018,18.2090969463905
+Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,United States,USA,2019,18.3872667792114
+Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,United States,USA,2020,17.3498643959484
+Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,United States,USA,2021,16.409338797498
+Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,United States,USA,2022,16.9791117428493
+Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,United States,USA,2023,17.3875791309142
+Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,United States,USA,2024,17.1067567574704
+Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,United States,USA,2025,
+Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,Germany,DEU,2000,22.8829484518656
+Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,Germany,DEU,2001,21.5433631059471
+Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,Germany,DEU,2002,19.8867030080599
+Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,Germany,DEU,2003,19.2638822568625
+Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,Germany,DEU,2004,18.8314639081743
+Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,Germany,DEU,2005,18.7644203275559
+Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,Germany,DEU,2006,19.4624059220668
+Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,Germany,DEU,2007,19.7151702055684
+Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,Germany,DEU,2008,19.9630399184329
+Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,Germany,DEU,2009,18.8381977329318
+Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,Germany,DEU,2010,19.1861612229759
+Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,Germany,DEU,2011,20.0081182128282
+Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,Germany,DEU,2012,19.9663127661399
+Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,Germany,DEU,2013,19.5771468839831
+Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,Germany,DEU,2014,19.782574460457
+Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,Germany,DEU,2015,19.7477510746575
+Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,Germany,DEU,2016,20.0438468833034
+Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,Germany,DEU,2017,20.1339289732412
+Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,Germany,DEU,2018,20.8175234345652
+Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,Germany,DEU,2019,21.1522978107472
+Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,Germany,DEU,2020,21.3426763110307
+Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,Germany,DEU,2021,21.181504152251
+Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,Germany,DEU,2022,21.6010467765749
+Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,Germany,DEU,2023,21.1916877404125
+Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,Germany,DEU,2024,20.4603173503166
+Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,Germany,DEU,2025,
+Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,Japan,JPN,2000,28.4871419080841
+Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,Japan,JPN,2001,27.7309731011096
+Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,Japan,JPN,2002,26.2604182019213
+Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,Japan,JPN,2003,25.7133538154767
+Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,Japan,JPN,2004,25.3239274810451
+Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,Japan,JPN,2005,25.9010440257525
+Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,Japan,JPN,2006,26.0446863446433
+Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,Japan,JPN,2007,25.4051268567059
+Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,Japan,JPN,2008,25.2928155191183
+Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,Japan,JPN,2009,23.624293447427
+Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,Japan,JPN,2010,22.6196594231882
+Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,Japan,JPN,2011,23.3511623002885
+Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,Japan,JPN,2012,23.7736492973571
+Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,Japan,JPN,2013,24.5565269630113
+Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,Japan,JPN,2014,25.0845490939861
+Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,Japan,JPN,2015,24.9714561746572
+Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,Japan,JPN,2016,24.7606842913738
+Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,Japan,JPN,2017,25.0073498435107
+Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,Japan,JPN,2018,25.2677675892842
+Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,Japan,JPN,2019,25.5475785734924
+Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,Japan,JPN,2020,25.4716981132075
+Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,Japan,JPN,2021,25.5546376460195
+Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,Japan,JPN,2022,26.2617706144091
+Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,Japan,JPN,2023,26.0120879352945
+Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,Japan,JPN,2024,26.0840902660166
+Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,Japan,JPN,2025,
+Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,"Korea, Rep.",KOR,2000,31.4951209990461
+Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,"Korea, Rep.",KOR,2001,30.5058350146188
+Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,"Korea, Rep.",KOR,2002,30.187571612987
+Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,"Korea, Rep.",KOR,2003,31.0719624895722
+Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,"Korea, Rep.",KOR,2004,30.9148949506372
+Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,"Korea, Rep.",KOR,2005,30.4585673582197
+Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,"Korea, Rep.",KOR,2006,30.5042866575012
+Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,"Korea, Rep.",KOR,2007,30.0691213268305
+Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,"Korea, Rep.",KOR,2008,30.8917515930741
+Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,"Korea, Rep.",KOR,2009,30.8870549838266
+Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,"Korea, Rep.",KOR,2010,30.4627998691082
+Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,"Korea, Rep.",KOR,2011,30.579957304265
+Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,"Korea, Rep.",KOR,2012,29.8554284944494
+Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,"Korea, Rep.",KOR,2013,29.2348610530955
+Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,"Korea, Rep.",KOR,2014,29.1925808527488
+Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,"Korea, Rep.",KOR,2015,29.1800840544677
+Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,"Korea, Rep.",KOR,2016,29.8662168895967
+Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,"Korea, Rep.",KOR,2017,31.6985138146943
+Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,"Korea, Rep.",KOR,2018,30.4949863588202
+Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,"Korea, Rep.",KOR,2019,30.112526532099
+Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,"Korea, Rep.",KOR,2020,31.0409083655236
+Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,"Korea, Rep.",KOR,2021,31.4877644393711
+Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,"Korea, Rep.",KOR,2022,31.9338930962313
+Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,"Korea, Rep.",KOR,2023,31.4470154989809
+Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,"Korea, Rep.",KOR,2024,30.029371211707
+Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,"Korea, Rep.",KOR,2025,
+Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,United States,USA,2000,23.1462885256504
+Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,United States,USA,2001,22.5385071620869
+Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,United States,USA,2002,21.5398908373713
+Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,United States,USA,2003,21.6226206280687
+Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,United States,USA,2004,22.1277420778003
+Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,United States,USA,2005,22.9346369798954
+Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,United States,USA,2006,23.038167049868
+Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,United States,USA,2007,22.3230160837388
+Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,United States,USA,2008,21.235478492072
+Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,United States,USA,2009,18.8101380427197
+Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,United States,USA,2010,18.3139445259228
+Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,United States,USA,2011,18.7369868048565
+Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,United States,USA,2012,19.5126025510627
+Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,United States,USA,2013,19.7983980671233
+Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,United States,USA,2014,20.4864937674979
+Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,United States,USA,2015,20.7502235317815
+Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,United States,USA,2016,20.8016632416177
+Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,United States,USA,2017,21.1343937588394
+Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,United States,USA,2018,21.4240428649128
+Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,United States,USA,2019,21.4897485242357
+Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,United States,USA,2020,21.8887242742465
+Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,United States,USA,2021,21.6159536186479
+Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,United States,USA,2022,21.7099777470183
+Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,United States,USA,2023,21.7264982141848
+Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,United States,USA,2024,21.6987566313724
+Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,United States,USA,2025,
