@@ -10,7 +10,7 @@ Japan's listed companies have accumulated an estimated ¥637.5 trillion in corpo
 
   1. How have Japanese corporate cash holdings changed over time relative to governance reform milestones, and has the reform program altered the accumulation trend? 
   2. Has capital expenditure increased as a proportion of corporate profits since the TSE's 2023 capital efficiency push, or are companies primarily returning cash to shareholders through dividends rather than investing? 
-  3. How does Japan's corporate investment behavior compare to peer economies of the United States, Germany, and South Korea as a percentage of GDP over the same period? 
+  3. How does Japan's corporate investment behavior compare to the peer economies of the United States, Germany, and South Korea as a percentage of GDP over the same period? 
   4. Is there a measurable statistical correlation between governance reform milestones and Japan's stock market performance as measured by the TOPIX index? 
   5. Based on historical relationships between corporate investment and GDP growth in Japan, what range of economic outcomes could be expected if companies deployed varying proportions of their idle capital over a five to ten year horizon?
     
