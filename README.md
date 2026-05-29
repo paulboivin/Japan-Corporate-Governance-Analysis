@@ -76,11 +76,13 @@ The analytical window for this project is 2001 through 2024, providing 24 years 
 
    • Corporate capital expenditure and the TOPIX index exhibit a strong positive correlation across the 24 year period with a Pearson coefficient of 0.913 and R² of 0.833. A statistically significant one year lag was identified between CapEx growth and GDP growth with a p-value of 0.0001. The strongest market signal of the reform era came after the 2023 TSE directive with TOPIX gaining 25.1% in 2023 and 17.7% in 2024, displaying the most sustained two year rally in the dataset. 
 
+   ![TOPIX CAPEX CORRELATION](data/charts/chart08_topix_capex_correlation.png)
+
    • Scenario modeling projects between $0.37 trillion and $1.19 trillion in additional GDP by 2034 relative to a no-deployment baseline, assuming 5% to 15% of current surplus is deployed over ten years. Projections are based on a historical investment multiplier of 0.1323 and carry a residual uncertainty of 1.44 percentage points per year widening over the forecast horizon.
 
-   ![CAPEX VS DIVIDENDS](data/charts/chart02_capex_vs_dividends.png)
+   ![CAPEX VS DIVIDENDS](data/charts/chart10_gdp_forecast_scenarios.png)
 
-
+![CAPEX VIS DIVIDENDS](data/charts/chart02_capex_vs_dividends.png)
 ---
 
 ## Observations and Areas for Further Investigation
