@@ -22,7 +22,6 @@ Japan's listed companies have accumulated an estimated ¥637.5 trillion in corpo
 
 **SQL (SQLite via DBeaver):** Used to validate key Python findings through structured queries and surface additional analytical insights through direct database interrogation. Seven queries covered earned surplus growth relative to governance milestones, capital deployment era comparisons, four-country GFCF rankings, TOPIX performance around reform announcements, and the historical investment-to-GDP growth relationship. The project connects Power BI directly to the SQLite database via an ODBC connection and demonstrates a database-to-dashboard pipeline architecture.
 
-
 **Power BI:** Used to build an interactive two-page dashboard visualizing the core findings for a business audience. Page 1 presents the internal corporate capital allocation story. Page 2 presents the international context and GDP forecast. Governance reform milestones are marked as reference lines across all time-series charts. An Era slicer allows filtering between pre-reform and reform era data across all visuals simultaneously.
 
 ---
@@ -35,7 +34,6 @@ Annual survey data covering Japanese corporate financial behavior from FY2002 th
 
 2. Japan Exchange Group - TOPIX Historical Index Values
 Annual TOPIX index records covering first trading day values, annual highs and lows, and year-end closing values from 1949 through 2025. Year-end closing values were used as the primary analytical variable for consistency across the time series. Data was sourced directly from the Japan Exchange Group's public statistics portal.
-
 
 3. World Bank - World Development Indicators
 Four indicators downloaded for Japan, the United States, Germany, and South Korea covering 2000 through 2024: GDP at constant 2015 USD, GDP per capita at constant 2015 USD, gross domestic savings as a percentage of GDP, and gross fixed capital formation as a percentage of GDP. Constant 2015 USD pricing eliminates inflation that would have distorted the time series analysis. Percentage of GDP normalization enables cross-country comparison independent of currency and economic scale differences.
@@ -70,6 +68,8 @@ The analytical window for this project is 2001 through 2024, providing 24 years 
 
    • Japan's corporate earned surplus grew 126% between 2011 and 2024, rising from ¥281.7 trillion to ¥637.5 trillion in an unbroken upward trend. The rate of accumulation showed no meaningful deceleration at any governance reform milestone, suggesting aggregate compliance with the Corporate Governance Code has not yet translated into a reversal of the fundamental capital hoarding pattern. 
 
+   ![CAPEX VIS DIVIDENDS](data/charts/chart02_capex_vs_dividends.png)
+
    • Cash dividends grew nearly sixfold from ¥7.2 trillion in 2003 to ¥40.1 trillion in 2024, while capital expenditure rose 52% from ¥36.5 trillion in 2001 to ¥55.5 trillion in 2024. Dividends as a percentage of capital expenditure rose from 12% in 2001 to 72% in 2024, with the most pronounced acceleration occurring after 2013. Total dividends paid during the reform era exceeded pre-reform era totals by ¥181.7 trillion, indicating a structural shift in how corporate profits are distributed. 
 
    • Japan ranked second among four peer economies in gross fixed capital formation as a percentage of GDP throughout the entire 24 year period, behind South Korea and ahead of Germany and the United States. Japan's investment rate recovered from a post-crisis low of 22.6% in 2010 to 26.1% by 2024, establishing that the governance reform challenge is not an absence of investment but an accumulation of surplus capital that outpaces investment performance. 
@@ -82,7 +82,6 @@ The analytical window for this project is 2001 through 2024, providing 24 years 
 
    ![CAPEX VS DIVIDENDS](data/charts/chart10_gdp_forecast_scenarios.png)
 
-![CAPEX VIS DIVIDENDS](data/charts/chart02_capex_vs_dividends.png)
 ---
 
 ## Observations and Areas for Further Investigation
