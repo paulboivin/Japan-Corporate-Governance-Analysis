@@ -68,9 +68,9 @@ The analytical window for this project is 2001 through 2024, providing 24 years 
 
    • Japan's corporate earned surplus grew 126% between 2011 and 2024, rising from ¥281.7 trillion to ¥637.5 trillion in an unbroken upward trend. The rate of accumulation showed no meaningful deceleration at any governance reform milestone, suggesting aggregate compliance with the Corporate Governance Code has not yet translated into a reversal of the fundamental capital hoarding pattern. 
 
-   ![CAPEX VIS DIVIDENDS](data/charts/chart02_capex_vs_dividends.png)
-
    • Cash dividends grew nearly sixfold from ¥7.2 trillion in 2003 to ¥40.1 trillion in 2024, while capital expenditure rose 52% from ¥36.5 trillion in 2001 to ¥55.5 trillion in 2024. Dividends as a percentage of capital expenditure rose from 12% in 2001 to 72% in 2024, with the most pronounced acceleration occurring after 2013. Total dividends paid during the reform era exceeded pre-reform era totals by ¥181.7 trillion, indicating a structural shift in how corporate profits are distributed. 
+
+    ![CAPEX VIS DIVIDENDS](data/charts/chart02_capex_vs_dividends.png)
 
    • Japan ranked second among four peer economies in gross fixed capital formation as a percentage of GDP throughout the entire 24 year period, behind South Korea and ahead of Germany and the United States. Japan's investment rate recovered from a post-crisis low of 22.6% in 2010 to 26.1% by 2024, establishing that the governance reform challenge is not an absence of investment but an accumulation of surplus capital that outpaces investment performance. 
 
