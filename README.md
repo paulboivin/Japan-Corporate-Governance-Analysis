@@ -6,7 +6,7 @@ This project presents an end-to-end data analysis of Japan's corporate governanc
 ---
 
 ## Business Problem
-Japan's listed companies have accumulated an estimated ¥637.5 trillion in corporate earned surplus as of 2024 that sits ase idle retained profits rather than being deployed into productive investment or returned to shareholders. This idle capital accumulation has persisted despite a decade of escalating governance reform pressure from Japan's Financial Services Agency and Tokyo Stock Exchange, raising fundamental questions about whether policy interventions can meaningfully change deeply entrenched corporate behavior. This analysis was designed to answer five core business questions:
+Japan's listed companies have accumulated an estimated ¥637.5 trillion in corporate earned surplus as of 2024 that sits as idle retained profits rather than being deployed into productive investment or returned to shareholders. This idle capital accumulation has persisted despite a decade of escalating governance reform pressure from Japan's Financial Services Agency and Tokyo Stock Exchange, raising fundamental questions about whether policy interventions can meaningfully change deeply entrenched corporate behavior. This analysis was designed to answer five core business questions:
 
   1. How have Japanese corporate cash holdings changed over time relative to governance reform milestones, and has the reform program altered the accumulation trend? 
   2. Has capital expenditure increased as a proportion of corporate profits since the TSE's 2023 capital efficiency push, or are companies primarily returning cash to shareholders through dividends rather than investing? 
