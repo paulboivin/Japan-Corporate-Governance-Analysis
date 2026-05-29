@@ -78,7 +78,8 @@ The analytical window for this project is 2001 through 2024, providing 24 years 
 
    • Scenario modeling projects between $0.37 trillion and $1.19 trillion in additional GDP by 2034 relative to a no-deployment baseline, assuming 5% to 15% of current surplus is deployed over ten years. Projections are based on a historical investment multiplier of 0.1323 and carry a residual uncertainty of 1.44 percentage points per year widening over the forecast horizon.
 
-   ![CAPEX VS DIVIDENDS](chart02_capex_vs_dividends.png)
+   ![CAPEX VS DIVIDENDS](data/charts/chart02_capex_vs_dividends.png)
+
 
 ---
 
