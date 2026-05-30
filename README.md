@@ -18,11 +18,11 @@ Japan's listed companies have accumulated an estimated ¥637.5 trillion in corpo
 
 ## Tools and Technologies
 
-**Python (pandas, matplotlib, seaborn, scipy, sklearn): Used for multi-source data cleaning and integration across 23 structurally inconsistent Ministry of Finance Excel files, exploratory data analysis producing ten charts, and OLS regression modeling establishing the empirical foundation for the GDP scenario forecast.
+**Python (pandas, matplotlib, seaborn, scipy, sklearn)**: Used for multi-source data cleaning and integration across 23 structurally inconsistent Ministry of Finance Excel files, exploratory data analysis producing ten charts, and OLS regression modeling establishing the empirical foundation for the GDP scenario forecast.
 
-SQL (SQLite via DBeaver): Used to validate Python findings through seven structured queries and demonstrate a database-to-dashboard pipeline via ODBC connection to Power BI.
+**SQL (SQLite via DBeaver)**: Used to validate Python findings through seven structured queries and demonstrate a database-to-dashboard pipeline via ODBC connection to Power BI.
 
-Power BI: Used to build a two-page interactive dashboard with governance reform milestone reference lines and an Era slicer for pre-reform versus reform era filtering.
+**Power BI**: Used to build a two-page interactive dashboard with governance reform milestone reference lines and an Era slicer for pre-reform versus reform era filtering.
 
 ---
 
@@ -30,13 +30,13 @@ Power BI: Used to build a two-page interactive dashboard with governance reform 
 This project uses real publicly available data sourced from three government and international statistical organizations.
 
 1. Japan’s Ministry of Finance - Financial Statements Statistics of Corporations by Industry
-Annual survey data covering Japanese corporate financial behavior from FY2002 through FY2024, providing capital expenditure, cash dividends, and earned surplus figures for all industries excluding Finance and Insurance. The survey has been conducted since 1948 and represents the most comprehensive publicly available source of Japanese corporate financial aggregates. Data was extracted from 23 individual Excel files, each containing five years of overlapping data with sheet numbering conventions that shifted between FY2014 and FY2015, requiring conditional extraction logic to handle both structural periods consistently. Data was sourced directly from Japan’s Ministry of Finance’s Policy Research Institute portal.
+Annual corporate financial data from FY2002 through FY2024 covering capital expenditure, cash dividends, and earned surplus for all industries excluding Finance and Insurance. Extracted from 23 individual Excel files with shifting sheet numbering conventions across two structural periods..
 
 2. Japan Exchange Group - TOPIX Historical Index Values
-Annual TOPIX index records covering first trading day values, annual highs and lows, and year-end closing values from 1949 through 2025. Year-end closing values were used as the primary analytical variable for consistency across the time series. Data was sourced directly from the Japan Exchange Group's public statistics portal.
+Annual TOPIX index records covering first trading day values, annual highs and lows, and year-end closing values from 1949 through 2025. Year-end closing values were used as the primary analytical variable for consistency across the time series.
 
 3. World Bank - World Development Indicators
-Four indicators downloaded for Japan, the United States, Germany, and South Korea covering 2000 through 2024: GDP at constant 2015 USD, GDP per capita at constant 2015 USD, gross domestic savings as a percentage of GDP, and gross fixed capital formation as a percentage of GDP. Constant 2015 USD pricing eliminates inflation that would have distorted the time series analysis. Percentage of GDP normalization enables cross-country comparison independent of currency and economic scale differences.
+Four indicators downloaded for Japan, the United States, Germany, and South Korea covering 2000 through 2024: GDP at constant 2015 USD, GDP per capita at constant 2015 USD, gross domestic savings as a percentage of GDP, and gross fixed capital formation as a percentage of GDP. Constant 2015 USD pricing eliminates inflation that would have distorted the time series analysis and percentage of GDP normalization enables cross-country comparison independent of currency and economic scale differences.
 
 The analytical window for this project is 2001 through 2024, providing 24 years of data with 13 years of pre-reform baseline and 11 years of reform era coverage. Earned surplus data is available from 2011 onwards only, reflecting the Ministry of Finance's creation of the earned surplus category in FY2015 publications.
 
@@ -48,7 +48,7 @@ The analytical window for this project is 2001 through 2024, providing 24 years 
        
    2. Data Sourcing: Located and downloaded data from three public sources: 23 Ministry of Finance annual survey Excel files, TOPIX historical index records from the Japan Exchange Group, and four-indicator World Bank World Development Indicators exports for four countries. Evaluated data availability, format consistency, and coverage gaps before committing to the analytical scope. 
        
-   3. Data Cleaning and Integration: Cleaned and standardized each dataset individually before assembling two master analytical files. Key challenges included extracting consistent time series from 23 structurally inconsistent MoF Excel files across two structural periods, aligning Japanese fiscal years to calendar years, normalizing cross-country World Bank indicators, and resolving overlapping multi-year coverage across consecutive MoF files using a most-recently-published deduplication strategy. Final master datasets: japan_master.csv (24 rows, 14 columns) and peer_comparison.csv (24 rows, 17 columns). 
+   3. Data Cleaning and Integration: Cleaned and standardized each dataset individually using a most-recently-published deduplication strategy for overlapping MoF file coverage. Final master datasets: japan_master.csv (24 rows, 14 columns) and peer_comparison.csv (24 rows, 17 columns). 
 
    4. Exploratory Data Analysis (Python): Produced ten charts examining earned surplus accumulation over time, capital expenditure versus dividends, dividends as a percentage of capex, TOPIX index trends, four-country GFCF comparison, Japan GDP growth, the savings-investment gap, capex-TOPIX correlation, dividends-TOPIX correlation, and GDP forecast scenarios. Governance reform milestones were marked as reference points across all time-series charts. 
 
