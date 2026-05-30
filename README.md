@@ -18,11 +18,11 @@ Japan's listed companies have accumulated an estimated ¥637.5 trillion in corpo
 
 ## Tools and Technologies
 
-**Python (pandas, matplotlib, seaborn, scipy, sklearn):** Used for data loading, cleaning, and integration across multiple heterogeneous source files. The cleaning process addressed structural inconsistencies across 26 Ministry of Finance Excel files spanning two decades, including shifting sheet numbering conventions, non-consecutive column layouts, overlapping multi-year coverage, and fiscal year to calendar year alignment. Exploratory data analysis produced ten charts examining corporate surplus accumulation, capital deployment behavior, peer economy comparisons, stock market correlations, and GDP trends. Regression modeling using scipy and sklearn established a statistically significant one year lag relationship between capital expenditure growth and GDP growth, forming the empirical foundation of the scenario forecast.
+**Python (pandas, matplotlib, seaborn, scipy, sklearn): Used for multi-source data cleaning and integration across 23 structurally inconsistent Ministry of Finance Excel files, exploratory data analysis producing ten charts, and OLS regression modeling establishing the empirical foundation for the GDP scenario forecast.
 
-**SQL (SQLite via DBeaver):** Used to validate key Python findings through structured queries and surface additional analytical insights through direct database interrogation. Seven queries covered earned surplus growth relative to governance milestones, capital deployment era comparisons, four-country GFCF rankings, TOPIX performance around reform announcements, and the historical investment-to-GDP growth relationship. The project connects Power BI directly to the SQLite database via an ODBC connection and demonstrates a database-to-dashboard pipeline architecture.
+SQL (SQLite via DBeaver): Used to validate Python findings through seven structured queries and demonstrate a database-to-dashboard pipeline via ODBC connection to Power BI.
 
-**Power BI:** Used to build an interactive two-page dashboard visualizing the core findings for a business audience. Page 1 presents the internal corporate capital allocation story. Page 2 presents the international context and GDP forecast. Governance reform milestones are marked as reference lines across all time-series charts. An Era slicer allows filtering between pre-reform and reform era data across all visuals simultaneously.
+Power BI: Used to build a two-page interactive dashboard with governance reform milestone reference lines and an Era slicer for pre-reform versus reform era filtering.
 
 ---
 
