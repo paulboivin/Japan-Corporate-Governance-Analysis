@@ -2,7 +2,7 @@
 
 ## Executive Summary
 
-This project presents a 24-year quantitative analysis of Japan's 
+This project presents a 24 year quantitative analysis of Japan's 
 corporate governance reform program and its measurable impact on 
 corporate capital allocation behavior, equity market performance, 
 and macroeconomic outcomes, produced as a research analytics 
