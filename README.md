@@ -1,4 +1,4 @@
-# Japan Corporate Governance Reform -Capital Allocation and Economic Impact Analysis (2001–2024)
+# Japan Corporate Governance Reform - Capital Allocation and Economic Impact Analysis (2001-2024)
 
 ## Executive Summary
 
