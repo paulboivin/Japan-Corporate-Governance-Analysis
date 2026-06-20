@@ -9,7 +9,7 @@ and macroeconomic outcomes, produced as a research analytics
 exercise using real public data from the Ministry of Finance, 
 Japan Exchange Group, and World Bank. The analysis was built to 
 provide the quantitative evidence base for institutional-level 
-questions about Japan's capital markets — the kind of empirical 
+questions about Japan's capital markets, the kind of empirical 
 foundation that portfolio managers, corporate strategy researchers, 
 and financial analysts require before drawing their own conclusions.
 
@@ -17,7 +17,7 @@ Three findings of particular analytical significance emerged.
 Japan's corporate earned surplus has grown 126% since 2011, 
 reaching ¥637.5 trillion in 2024 with no meaningful deceleration 
 at any governance reform milestone. The proportion of profits 
-returned to shareholders versus reinvested shifted dramatically — 
+returned to shareholders versus reinvested shifted dramatically, with
 dividends as a percentage of capital expenditure rose from 12% in 
 2001 to 72% in 2024. Corporate capital expenditure and TOPIX 
 performance exhibit a near-perfect positive correlation across the 
@@ -32,7 +32,7 @@ current surplus is deployed.
 ## Business Problem
 
 Japan's listed companies had accumulated an estimated ¥637.5 
-trillion in corporate earned surplus as of 2024 — idle retained 
+trillion in corporate earned surplus as of 2024; idle retained 
 profits that have persisted despite a decade of escalating 
 governance reform pressure from Japan's Financial Services Agency 
 and Tokyo Stock Exchange. Whether these policy interventions can 
@@ -170,20 +170,20 @@ era exceeded pre-reform era totals by ¥181.7 trillion.
 **Japan maintains a relatively strong investment rate by 
 international comparison.** Japan ranked second among four peer 
 economies in gross fixed capital formation as a percentage of GDP 
-throughout the full 24-year period, behind South Korea and ahead 
+throughout the full 24 year period, behind South Korea and ahead 
 of Germany and the United States. Japan's investment rate 
 recovered from a post-crisis low of 22.6% in 2010 to 26.1% by 
-2024 — establishing that the governance reform challenge is not an 
+2024, establishing that the governance reform challenge is not an 
 absence of investment but an accumulation of surplus capital that 
 outpaces investment performance.
 
 **Corporate investment and stock market performance are strongly 
 correlated.** Capital expenditure and TOPIX exhibit a Pearson 
-correlation of 0.913 (R² = 0.833) across the 24-year window. A 
+correlation of 0.913 (R² = 0.833) across the 24 year window. A 
 statistically significant one-year lag was identified between CapEx 
 growth and GDP growth (p = 0.0001). The strongest sustained market 
 rally in the dataset occurred in the two years following the 2023 
-TSE capital efficiency directive — TOPIX gained 25.1% in 2023 and 
+TSE capital efficiency directive with TOPIX gaining 25.1% in 2023 and 
 17.7% in 2024.
 
 ![TOPIX CapEx Correlation](data/charts/chart08_topix_capex_correlation.png)
@@ -216,13 +216,13 @@ capital expenditure and TOPIX performance (r = 0.913) suggests
 that corporate investment behavior may function as a meaningful 
 leading indicator alongside traditional market metrics. The 2023 
 TSE directive produced the most sustained two-year TOPIX rally in 
-the dataset — monitoring whether this momentum persists through 
+the dataset and monitoring whether this momentum persists through 
 the July 2027 governance code compliance deadline may be 
 informative for medium-term Japan equity positioning.
 
 **For corporate strategy and M&A research teams:** The structural 
-shift in profit distribution — dividends as a percentage of CapEx 
-rising from 12% to 72% over the reform period — represents a 
+shift in profit distribution, dividends as a percentage of CapEx 
+rising from 12% to 72% over the reform period, represents a 
 material change in how Japanese listed companies deploy profits. 
 Whether this pattern reflects genuine strategic reallocation or 
 primarily cash distribution in mature, low-growth industries 
@@ -256,7 +256,7 @@ meaningful operational level.
 incorporated due to the absence of a freely accessible historical 
 time series at the required aggregation level. To the extent that 
 buybacks have grown as an alternative return mechanism during the 
-reform era — which professional reporting suggests to be the case — 
+reform era (which professional reporting suggests to be the case) 
 the shift toward shareholder returns identified here may be 
 understated. A complete capital return analysis would incorporate 
 buyback data alongside dividends.
@@ -342,7 +342,7 @@ Japan-Governance-Analysis/
 
 ## How to Run
 
-This project requires Python with pandas, matplotlib, seaborn, scipy, and sklearn installed via Anaconda, a SQLite-compatible SQL client such as DBeaver for the SQL queries and database, and Power BI Desktop with a SQLite ODBC driver installed for the dashboard file. All raw data files are located in the data/raw subfolders and all cleaned analytical files are located in data/cleaned.
+This project requires Python with pandas, matplotlib, seaborn, scipy, and sklearn installed via Anaconda, a SQLite-compatible SQL client for the SQL queries and database, and Power BI Desktop with a SQLite ODBC driver installed for the dashboard file. All raw data files are located in the data/raw subfolders and all cleaned analytical files are located in data/cleaned.
 
 **To explore the Python notebooks:**
 
@@ -353,8 +353,8 @@ This project requires Python with pandas, matplotlib, seaborn, scipy, and sklear
     
 **To run the SQL queries:**
 
-    1. Open DBeaver and create a new SQLite connection pointing to japan_governance.db in the sql folder. 
-    2. Open any .sql file from the sql folder in the DBeaver SQL editor. 
+    1. Open any SQL client and create a new SQLite connection pointing to japan_governance.db in the sql folder. 
+    2. Open any .sql file from the sql folder in the SQL client editor. 
     
 **To view the Power BI dashboard:**
 
