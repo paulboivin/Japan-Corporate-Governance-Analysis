@@ -24,7 +24,7 @@ performance exhibit a near-perfect positive correlation across the
 full analytical window (r = 0.913), with the strongest sustained 
 market rally in the dataset occurring in the two years following 
 the 2023 TSE capital efficiency directive. GDP scenario modeling 
-projects $0.37T–$1.19T in additional output by 2034 if 5–15% of 
+projects $0.37T-$1.19T in additional output by 2034 if 5-15% of 
 current surplus is deployed.
 
 ---
