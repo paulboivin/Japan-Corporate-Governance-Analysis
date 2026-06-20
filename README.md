@@ -243,49 +243,15 @@ investment-based model.
 
 ## Next Steps
 
-**Sector-level decomposition:** The aggregate shift from a 30.6% 
-to 56.5% dividend-to-CapEx ratio between pre-reform and reform 
-eras is an economy-wide finding. Whether this pattern is 
-consistent across industries or concentrated in specific sectors 
-cannot be determined from the data used in this analysis. 
-Company-level or sector-level financial data would enable the more 
-granular assessment required to evaluate reform impact at a 
-meaningful operational level.
+**Sector-level decomposition:** The aggregate shift from a 30.6% to 56.5% dividend-to-CapEx ratio between pre-reform and reform eras is an economy-wide finding. Whether this pattern is consistent across industries or concentrated in specific sectors cannot be determined from the data used in this analysis. Company-level or sector-level financial data would enable the more granular assessment required to evaluate reform impact at a meaningful operational level.
 
-**Share buyback integration:** Share buyback data was not 
-incorporated due to the absence of a freely accessible historical 
-time series at the required aggregation level. To the extent that 
-buybacks have grown as an alternative return mechanism during the 
-reform era (which professional reporting suggests to be the case) 
-the shift toward shareholder returns identified here may be 
-understated. A complete capital return analysis would incorporate 
-buyback data alongside dividends.
+**Share buyback integration:** Share buyback data was not incorporated due to the absence of a freely accessible historical time series at the required aggregation level. To the extent that buybacks have grown as an alternative return mechanism during the reform era (which professional reporting suggests to be the case) the shift toward shareholder returns identified here may be understated. A complete capital return analysis would incorporate buyback data alongside dividends.
 
-**Reform compliance monitoring:** The July 2027 compliance 
-deadline for the revised Corporate Governance Code represents the 
-most meaningful near-term test of whether the reform program can 
-reverse the surplus accumulation trend. An updated analysis using 
-2025–2027 data would provide the first evidence-based assessment 
-of whether the TSE's 2023 directive has produced durable 
-behavioral change or primarily a temporary market response.
+**Reform compliance monitoring:** The July 2027 compliance deadline for the revised Corporate Governance Code represents the most meaningful near-term test of whether the reform program can reverse the surplus accumulation trend. An updated analysis using 2025–2027 data would provide the first evidence-based assessment of whether the TSE's 2023 directive has produced durable behavioral change or primarily a temporary market response.
 
-**Savings-investment gap investigation:** An incidental finding 
-outside the primary analytical scope: Japan's gross domestic 
-savings rate fell below its gross fixed capital formation rate in 
-several years after 2013, producing a negative savings-investment 
-gap counterintuitive against the central finding of uninterrupted 
-corporate surplus growth. This likely reflects government fiscal 
-deficits and declining household savings, but the aggregate data 
-used here does not permit sector-level resolution. It is noted as 
-an area warranting further research by analysts with access to 
-disaggregated national accounts data.
+**Savings-investment gap investigation:** An incidental finding outside the primary analytical scope: Japan's gross domestic savings rate fell below its gross fixed capital formation rate in several years after 2013, producing a negative savings-investment gap counter intuitive against the central finding of uninterrupted corporate surplus growth. This likely reflects government fiscal deficits and declining household savings, but the aggregate data used here does not permit sector-level resolution. It is noted as an area warranting further research by analysts with access to dis-aggregated national accounts data.
 
-**Model refinement:** The GDP scenario model is built on aggregate 
-national investment and GDP data rather than corporate-sector-
-specific data, meaning the historical investment multiplier 
-reflects non-corporate activity alongside corporate investment. 
-A corporate-sector-specific model using disaggregated investment 
-data would produce more precise scenario estimates.
+**Model refinement:** The GDP scenario model is built on aggregate national investment and GDP data rather than corporate-sector- specific data, meaning the historical investment multiplier reflects non-corporate activity alongside corporate investment. A corporate-sector-specific model using dis-aggregated investment data would produce more precise scenario estimates.
 
 ---
 
