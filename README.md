@@ -189,9 +189,9 @@ TSE capital efficiency directive with TOPIX gaining 25.1% in 2023 and
 ![TOPIX CapEx Correlation](data/charts/chart08_topix_capex_correlation.png)
 
 **GDP scenario modeling projects a meaningful range of 
-macroeconomic outcomes.** Assuming 5–15% of current surplus is 
+macroeconomic outcomes.** Assuming 5-15% of current surplus is 
 deployed over ten years, the OLS regression model projects 
-$0.37T–$1.19T in additional GDP by 2034 relative to a 
+$0.37T-$1.19T in additional GDP by 2034 relative to a 
 no-deployment baseline. These projections carry a residual 
 uncertainty of 1.44 percentage points per year widening over the 
 forecast horizon and should be treated as a directional reference 
@@ -232,7 +232,7 @@ distinction, which is material to evaluating individual companies
 or sectors.
 
 **For financial research organizations:** The GDP scenario range 
-($0.37T–$1.19T in additional output by 2034) provides a 
+($0.37T-$1.19T in additional output by 2034) provides a 
 quantitative directional framework for assessing the macroeconomic 
 significance of surplus deployment at scale. Actual outcomes would 
 depend on the sector concentration of deployment, the composition 
